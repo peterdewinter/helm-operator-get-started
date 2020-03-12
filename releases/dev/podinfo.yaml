@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: mijathi/podinfo
-      tag: dev-dx6solr7
+      tag: dev-mmfleoih
     replicaCount: 1
     hpa:
       enabled: false
